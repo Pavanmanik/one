@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DevOps Engineer Portfolio</title>
-    <title>Dengithe Devara antav</title>
     <style>
         /* General Styles */
         body {
@@ -179,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Pavan, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm Chiranjeevi, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
     <section id="skills" class="skills">
