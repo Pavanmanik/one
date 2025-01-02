@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Manikonda Pavan - DevOps Engineer</h1>
+        <h1>M Pavan - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
@@ -220,7 +220,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Manikonda Pavan | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2024 M Pavan | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
